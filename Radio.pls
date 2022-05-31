@@ -1,12 +1,12 @@
 [playlist]
 
-File1=https://miata.farted.net/audios//fred.mp3
+File1=https://miata.farted.net/audios//scap.mp3
 
 Title1=Scrap Radio
 
 Length1=1172
 
-File2=https://miata.farted.net/audios/fred.mp3
+File2=https://miata.farted.net/audios//fred.mp3
 
 Title2=Freddy Fazbear
 
