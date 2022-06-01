@@ -54,5 +54,17 @@ Title9=Jingle Farts
 
 Length9=533
 
-NumberOfEntries=9
+File10=https://miata.farted.net/audios/goat.mp3
+
+Title10=goat
+
+Length10=713
+
+File11=https://miata.farted.net/audios/pig.mp3
+
+Title11=Ukraine Pig
+
+Length11=713
+
+NumberOfEntries=11
 Version=2
